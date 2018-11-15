@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Sample/Default.aspx) (VB: [Default.aspx](./VB/Sample/Default.aspx))
+* **[Default.aspx.cs](./CS/Sample/Default.aspx.cs) (VB: [Default.aspx](./VB/Sample/Default.aspx))**
+<!-- default file list end -->
 # How to display images in the Header and Footer sections when exporting ASPxGridView
 
 
